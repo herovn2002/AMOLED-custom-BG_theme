@@ -1,6 +1,6 @@
 {
   "name": "AMOLED anime theme",
-  "description": "AMOLED Rem theme",
+  "description": "AMOLED Helentine theme",
   "authors": [
     {
       "name": "wiwiichan",
@@ -236,7 +236,7 @@
   },
   "background": {
     "url": "https://raw.githubusercontent.com/herovn2002/AMOLED-custom-BG_theme/refs/heads/main/HMdYn6WasAAEwe8%7E2.jpg",
-    "blur": 0.3,
+    "blur": 0.1,
     "alpha": 0.25,
     "size": "cover",
     "position": "center"
