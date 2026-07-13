@@ -237,7 +237,7 @@
   "background": {
     "url": "https://raw.githubusercontent.com/herovn2002/AMOLED-custom-BG_theme/refs/heads/main/HMdYn6WasAAEwe8%7E2.jpg",
     "blur": 0,
-    "alpha": 0.5,
+    "alpha": 0.7,
     "size": "cover",
     "position": "center"
   },
